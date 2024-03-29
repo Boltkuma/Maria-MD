@@ -13,7 +13,7 @@ global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
 //sticker details
 global.stickername = '💙𓆩‎✘Bolt stickers𓆪_✰'
 global.packname = 'Sticker By bolt'
-global.author = 'Bolt's Bot'
+global.author = 'Bolt'
 //console view/theme
 global.themeemoji = '✅'
 global.wm = " Bolt inc."
@@ -32,7 +32,7 @@ global.autorecordtype = false //auto typing + recording
 global.autoread = true //auto read messages
 global.autobio = false //auto update bio
 global.anti212 = true //auto block +212
-global.autoread_status = True //auto view status/story
+global.autoread_status = true //auto view status/story
 
 
 
